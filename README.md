@@ -1,0 +1,2 @@
+# Incorrect Slice Manipulation with Append in Go
+This repository demonstrates a common error in Go when working with slices and the `append` function. The example shows how attempting to remove an element from the middle of a slice using slicing and `append` can lead to unexpected results.  The solution provides a corrected approach to safely remove elements from a slice.
